@@ -1,2 +1,10 @@
-# MyStudyLib
-This repository is used to store useful documents, codes, etc. during my college education.
+# 个人云图书馆
+
+这是我的个人数字图书馆，收藏了各种书籍、笔记和学习资源。
+
+## 目录结构
+### 仓库内容
+- Vue3+TS 尚硅谷
+
+### 资源链接
+- [尚硅谷Vue3入门到实战，最新版vue3+TypeScript前端开发教程](https://b23.tv/S4Mtcje)
